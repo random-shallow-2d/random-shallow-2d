@@ -7,7 +7,7 @@ This repository contains code to reproduce numerical experiments.
 ### Installation
 
 * **Requirements**:
- macOS, [`itensor`](https://itensor.org/) version 2, [`numpy`](https://www.numpy.org), [`matplotlib`](https://matplotlib.org/), [`jupyter`](https://jupyter.org/)
+ macOS, [`itensor v2`](https://itensor.org/), [`numpy`](https://www.numpy.org), [`matplotlib`](https://matplotlib.org/), [`jupyter`](https://jupyter.org/)
 
 * **Download** the repository:
   ```
